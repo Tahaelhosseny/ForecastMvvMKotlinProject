@@ -1,6 +1,7 @@
 package com.maidandhelper.www.forecastmvvmkotlinproject.Data
 
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
+import com.maidandhelper.www.forecastmvvmkotlinproject.Data.Network.Responce.CureentWeatherResponce
 import kotlinx.coroutines.Deferred
 import okhttp3.Interceptor
 import okhttp3.OkHttpClient
